@@ -1,0 +1,104 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }  
+
+
+.header-banner{
+    background-color: #1F2937;
+    justify-content: space-around;
+    height: 500px;
+}
+
+.sub-banner1{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.sub-banner2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.Header-First-Row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Details-and-Button{
+
+    justify-content:center;
+    /* background-color: aquamarine; */
+
+    display: flex;
+    height: 350px;
+    gap:100px;
+
+}
+
+.hero-main{
+    background-color:aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+}
+
+.sub-banner3{
+    display: flex;
+    flex-direction: column;
+    /* background-color: aqua; */
+    /* padding-top: 80px; */
+    height: 280px;
+    width:430px;
+    justify-content:end;
+}
+
+.hero-main-heading{
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+    color: #F9FAF8;
+    height: 170px;
+
+}
+
+.hero-main-para{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button{
+    background-color: #3882F6;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    color: #F9FAF8;
+    font-size: medium;
+}
+
+.sub-banner4{
+    
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    height: 250px;
+    width:500px;
+    /* justify-content:left; */
+}
+
+.image{
+    /* background-color: #3882F6; */
+    display: flex;
+    align-items: center;
+    padding-bottom: 35px;
+}
+
+
+
